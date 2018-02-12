@@ -15,25 +15,25 @@ googleAnalytics     = "UA-123-45"
 
 [permalinks]
 blog  = "blog/:slug/"
+report  = "report/:slug/"
 
 [[menu.main]]
 name                   = "Report"
-weight                 = -120
+weight                 = -3
 identifier             = "report"
-url                    = "/report/"
+url                    = "/"
 
 [[menu.main]]
 name                   = "Presentation"
-weight                 = -120
+weight                 = -2
 identifier             = "presentation"
 url                    = "/presentation/"
 
 [[menu.main]]
 name                   = "About"
-weight                 = -110
+weight                 = -1
 identifier             = "about"
 url                    = "/about/"
-
 
 [params]
 include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon

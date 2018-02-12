@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vessels Tech</title>
+    <link>https://fourpbot-report.firebaseapp.com/posts/</link>
+    <description>Recent content in Posts on Vessels Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 11 Feb 2018 21:30:10 +1030</lastBuildDate>
+    
+	<atom:link href="https://fourpbot-report.firebaseapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://fourpbot-report.firebaseapp.com/posts/my-first-post/</link>
+      <pubDate>Sun, 11 Feb 2018 21:30:10 +1030</pubDate>
+      
+      <guid>https://fourpbot-report.firebaseapp.com/posts/my-first-post/</guid>
+      <description>This is my first post.</description>
+    </item>
+    
+  </channel>
+</rss>

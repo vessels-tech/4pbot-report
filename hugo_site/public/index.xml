@@ -6,9 +6,64 @@
     <description>Recent content on Vessels Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Mon, 12 Feb 2018 22:01:07 +1030</lastBuildDate>
     
 	<atom:link href="https://fourpbot-report.firebaseapp.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://fourpbot-report.firebaseapp.com/about/</link>
+      <pubDate>Mon, 12 Feb 2018 22:01:07 +1030</pubDate>
+      
+      <guid>https://fourpbot-report.firebaseapp.com/about/</guid>
+      <description>This all about vessels and all about 4pbot.</description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>https://fourpbot-report.firebaseapp.com/presentation/</link>
+      <pubDate>Mon, 12 Feb 2018 22:01:07 +1030</pubDate>
+      
+      <guid>https://fourpbot-report.firebaseapp.com/presentation/</guid>
+      <description>This is the 4Pbot presentation slides.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://fourpbot-report.firebaseapp.com/posts/my-first-post/</link>
+      <pubDate>Sun, 11 Feb 2018 21:30:10 +1030</pubDate>
+      
+      <guid>https://fourpbot-report.firebaseapp.com/posts/my-first-post/</guid>
+      <description>This is my first post.</description>
+    </item>
+    
+    <item>
+      <title>4Pbot</title>
+      <link>https://fourpbot-report.firebaseapp.com/report/03_4pbot/</link>
+      <pubDate>Sat, 10 Feb 2018 21:30:10 +1030</pubDate>
+      
+      <guid>https://fourpbot-report.firebaseapp.com/report/03_4pbot/</guid>
+      <description>What is 4pbot you say? Well&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Executive Summary</title>
+      <link>https://fourpbot-report.firebaseapp.com/report/01_executive_summary/</link>
+      <pubDate>Sat, 10 Feb 2018 21:30:10 +1030</pubDate>
+      
+      <guid>https://fourpbot-report.firebaseapp.com/report/01_executive_summary/</guid>
+      <description>This is my first post.</description>
+    </item>
+    
+    <item>
+      <title>Background</title>
+      <link>https://fourpbot-report.firebaseapp.com/report/02_background/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fourpbot-report.firebaseapp.com/report/02_background/</guid>
+      <description>This is my first post.</description>
+    </item>
     
   </channel>
 </rss>
