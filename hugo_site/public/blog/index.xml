@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Vessels Tech</title>
+    <link>https://you.github.io/blog/</link>
+    <description>Recent content in Blog on Vessels Tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Feb 2018 21:51:01 +1030</lastBuildDate>
+    
+	<atom:link href="https://you.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Executive Summary</title>
+      <link>https://you.github.io/blog/executive-summary/</link>
+      <pubDate>Mon, 12 Feb 2018 21:51:01 +1030</pubDate>
+      
+      <guid>https://you.github.io/blog/executive-summary/</guid>
+      <description>IMPLEMENTATION Vessels designed and developed 4Pbot 0.1. This was released to a small set of private testers; 10-15 people.
+Their feedback was then incorporated into the product. 4Pbot was then launched to the public and promoted amongst 4P Facebook Groups.
+We then iterated 4Pbot 0.3. With this version, conversation flow issues had been addressed and the Payment Date Estimation feature had been removed, because it was not accurate enough.</description>
+    </item>
+    
+  </channel>
+</rss>
