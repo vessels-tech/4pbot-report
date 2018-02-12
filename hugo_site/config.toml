@@ -1,4 +1,5 @@
-baseurl             = "https://you.github.io/"
+#TODO: change to proper domain
+baseurl             = "https://fourpbot-report.firebaseapp.com"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"

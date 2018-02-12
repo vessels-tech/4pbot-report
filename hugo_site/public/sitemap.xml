@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://you.github.io/categories/</loc>
+    <loc>https://fourpbot-report.firebaseapp.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://you.github.io/tags/</loc>
+    <loc>https://fourpbot-report.firebaseapp.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://you.github.io/</loc>
+    <loc>https://fourpbot-report.firebaseapp.com/</loc>
     <priority>0</priority>
   </url>
   
