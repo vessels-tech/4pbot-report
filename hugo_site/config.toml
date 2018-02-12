@@ -1,5 +1,4 @@
-#TODO: change to proper domain
-baseurl             = "https://fourpbot-report.firebaseapp.com"
+baseurl             = "https://report.4pbot.com"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
