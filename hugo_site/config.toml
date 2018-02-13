@@ -29,10 +29,10 @@ identifier             = "presentation"
 url                    = "/presentation/"
 
 [[menu.main]]
-name                   = "About"
+name                   = "About2"
 weight                 = -1
-identifier             = "about"
-url                    = "/about/"
+identifier             = "about2"
+url                    = "/about2/"
 
 [params]
 include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon
