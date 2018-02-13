@@ -1,7 +1,6 @@
-install:
+language: go
 
 before_deploy: "./build.sh"
-
 deploy:
   provider: firebase
   token:
