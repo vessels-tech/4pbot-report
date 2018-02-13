@@ -5,8 +5,6 @@ before_deploy:
   - "./build.sh"
 deploy:
   provider: firebase
-  token:
-    secure: YOUR ENCRYPTED token
-env:
-  global:
-    secure: TwAhcM6ZXg7LYjjVDSloE6E+xvTmEDRZUnyxdoBCM5RRS7FLQ86uH8ICBznTyCMyDHtNurKqERny6aF6u8s3WTWMkd8HHKgIb4OTheYdOdzvB+FFc/avc98Cwp4reizYKDZhEbEOdsGMmA4ZFoiZ5gyDMQYun4/e5VWfv/5mg6ayZ7ERJRPw3mkUKXnyJMFIzOaPeNkLyzbdHvfPIKmWR3gIMT9VpCR6DdlB0kGvajnY9glzj4c9/su8a+lzqf8SIlOeTkdzFDwEgbGysYHvE4VlRiLQCFBJxFfw4jhtLSxNM7UX0t8qdri+ifMvlwiGEiLFcH+mV6WTsA+SA5164aNTJu4xBfs+mDfOr+KavdSdPvxzoSRjQ+mTGox7V+spWaTReeCOgwPPxPa0HZP6MF+6Cxl/JZH8yJYpMEyIuFbAUfJ7yKnCyhebJ8bak2ZTncfcFxoUL4iqkmL+iRqEp6xVTh5W0o1g6j7RbqVFSadWuFKnwpRPOBkSsTJKY61cZpk7lJBtG2/wPrip5qCS2GnFYLFJGrCSrlYBzH1/VYssmWNkwD5p4x9dwGep3EQIP/aSRJ8Jx5qoyFDNyauU0i76AXhAYO22GQtw149e7Xn3kj9RmZaOSet8SoAWIQG3GlFsGg0F//ZWb77bWvHFPnwplpVGs7NhEovWAVhscS8=
+
+after_success:
+   - firebase deploy --token $FIREBASE_TOKEN
