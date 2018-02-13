@@ -1,5 +1,7 @@
 language: generic
-before_deploy: "./build.sh"
+before_deploy:
+  - "sudo apt-get install hugo"
+  - "./build.sh"
 deploy:
   provider: firebase
   token:
