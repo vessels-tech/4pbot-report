@@ -1,6 +1,6 @@
 ---
 title: About
-date: 'Mon Feb 12 2018 22:01:07 GMT+1030 (ACDT)'
+date: '2018-02-12T22:01:07+10:30'
 published: true
 ---
 
