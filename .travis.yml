@@ -1,3 +1,4 @@
+language: generic
 before_deploy: "./build.sh"
 deploy:
   provider: firebase
