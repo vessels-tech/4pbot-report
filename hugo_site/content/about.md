@@ -1,7 +1,6 @@
 ---
 title: About
 date: 2018-02-12T11:31:07.000Z
-draft: false
 published: true
 ---
 
