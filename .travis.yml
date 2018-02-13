@@ -1,6 +1,7 @@
+sudo: required
 language: generic
 before_deploy:
-  - "sudo apt-get install hugo"
+  - "./install.sh"
   - "./build.sh"
 deploy:
   provider: firebase
