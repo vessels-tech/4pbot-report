@@ -7,3 +7,11 @@ prose:
         field:
           element: "text"
           value: CURRENT_DATETIME
+      - name: "draft"
+        field:
+          element: "text"
+          value: true
+      - name: "title"
+        field:
+          element: "text"
+          value: "my_new_post"
