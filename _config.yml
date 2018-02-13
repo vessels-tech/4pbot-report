@@ -5,4 +5,5 @@ prose:
     content:
       - name: "date"
         field:
+          element: "text"
           value: CURRENT_DATETIME
