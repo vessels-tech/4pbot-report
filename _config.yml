@@ -2,7 +2,7 @@ prose:
   rooturl: 'hugo_site'
   media: 'media'
   metadata:
-    content:
+    hugo_site/content:
       - name: "date"
         field:
           element: "text"
