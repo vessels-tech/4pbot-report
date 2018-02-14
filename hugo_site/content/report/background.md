@@ -71,7 +71,7 @@ The 4P’s operates in all 17 regions of the Philippines. Beneficiaries are curr
 
 
 |**Grants**|**Conditions**|
-| -------------------|---|
+| -------------------|----|
 | - Health: P500 per month per household | - Pregnant women must go to pre-natal and post-natal care and be attended by a health professional at childbirth|
 | - Education: P300 per child every ten months (households can register a maximum of 3 children).| - Parents/guardians must attend monthly family development seminars, which address topics such as responsible parenting, health and nutrition. |
 |- Rice subsidy _TODO:_ | - Children 0-5yo must receive regular check-ups and vaccines|
