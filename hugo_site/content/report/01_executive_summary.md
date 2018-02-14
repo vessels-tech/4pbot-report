@@ -6,6 +6,4 @@ weight: 1
 ---
 
 
-# Executive Summary
-
 Summarize everything for an executive...
