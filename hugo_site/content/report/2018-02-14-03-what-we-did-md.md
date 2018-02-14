@@ -1,6 +1,6 @@
 ---
 date: '2018-02-14 11:47 +1030'
-published: false
+published: true
 title: What We Did
 ---
 # What We Did
