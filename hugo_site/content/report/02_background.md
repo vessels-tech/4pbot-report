@@ -8,7 +8,7 @@ weight: 2
 
 ## What is 4PBot - 
 _I don't actually think this section belongs here._
-_Instead I think we should write a little summary about the background in 2-3 sentences_
+_TODO: Instead I think we should write a little summary about the background in 2-3 sentences_
 
 4Pbot is a chatbot for Filipinos on the nation's social welfare program, Pantawid Pamilyang Pilipino Program, or 4Ps. 4Pbot _todo: finish little summary_
 
@@ -78,19 +78,7 @@ The 4P’s operates in all 17 regions of the Philippines. Beneficiaries are curr
 | |- Children-beneficiaries of the education grant between ages 3-18 must be enrolled in a school, and must be able to prove 85% attendance. |
 
 
-
-
-
-
-
 Another program, the Modified Conditional Cash Transfer Program, is a complementary program to the 4P’s, and is targeted at the Philippines most poor; families in need of special protection. This includes street-families, families with members that have a disability, victims of child labor and trafficking and so on. 
-
-
-
-
-
-
-
 
 
 [^1]: http://www.cgap.org/blog/regulation-spurs-innovation-philippines
