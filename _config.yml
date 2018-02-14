@@ -6,7 +6,7 @@ prose:
       - name: "date"
         field:
           element: "text"
-          value: CURRENT_DATETIME
+          value: "2018-02-10T21:30:10+10:30"
       - name: "title"
         field:
           element: "text"
