@@ -1,5 +1,5 @@
 ---
-date: '2018-02-14 11:47 +1030'
+date: '2018-02-10T21:30:10+10:30'
 published: true
 title: What We Did
 ---
@@ -11,5 +11,4 @@ title: What We Did
 
 ## Implementation
 
-## Second Philippines Visit 
-
+## Second Philippines Visit
