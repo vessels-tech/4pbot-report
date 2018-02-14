@@ -12,7 +12,7 @@
             {{ if gt $latestpostscount 0 }}
                 <div class="page-heading">{{ i18n "report" }}</div>
                 <ul>
-                    {{ range (first $latestpostscount (where .Data.Pages.ByPublishDate.Reverse "Section" "report")) }}
+                    {{ range (first $latestpostscount (where .Data.Pages.ByWeight "Section" "report")) }}
                         {{ partial "li.html" . }}
                     {{ end }}
                     {{ if gt $totalpostscount $latestpostscount }}

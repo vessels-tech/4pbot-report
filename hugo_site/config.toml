@@ -11,6 +11,7 @@ title               = "Vessels Tech"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
 googleAnalytics     = "UA-123-45"
+displayDate         = false
 
 [permalinks]
 blog  = "blog/:slug/"
@@ -36,7 +37,7 @@ url                    = "/about2/"
 
 [params]
 include_rss            = false                          # include RSS <link> tag in <head> and show RSS icon
-latestpostscount       = 5                             # how many posts to display on the home page
+latestpostscount       = 7                            # how many posts to display on the home page
 i18n_flags             = false                         # whether to display small country flags for available translations
 author                 = "4PBot Report - Vessels Tech"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
