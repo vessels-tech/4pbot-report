@@ -6,7 +6,9 @@ weight: 2
 ---
 
 
-## What is 4PBot?
+## What is 4PBot - 
+_I don't actually think this section belongs here._
+_Instead I think we should write a little summary about the background in 2-3 sentences_
 
 4Pbot is a chatbot for Filipinos on the nation's social welfare program, Pantawid Pamilyang Pilipino Program, or 4Ps. 4Pbot _todo: finish little summary_
 
@@ -51,8 +53,7 @@ CCTs have become one of the most prevalent social assistance programs in low to 
 
 | **CCT Challenges:**|  |
 | -------------------|--|
-| _Impact Assessment_ |
-A particular area that seems to be lacking within CCT development is the matter of effective long-term evaluations of impact [^5]. The scholarship around this mainly discusses appropriate methodology for assessing the claim that CCT’s will reduce poverty levels and increase human capital in the long run as it promises.| 
+| _Impact Assessment_ | A particular area that seems to be lacking within CCT development is the matter of effective long-term evaluations of impact [^5]. The scholarship around this mainly discusses appropriate methodology for assessing the claim that CCT’s will reduce poverty levels and increase human capital in the long run as it promises.| 
 | _Fraud Assessment_ | A less prominent issue in CCT, but worth consideration nonetheless, is control and accountability, and mitigating opportunity for fraud within CCT programs. _TODO: I think there were some reports about this from the world bank somewhere..._|
 | _3rd Party Program Evaluations_ | Government programs are notorious for being underfunded and overworked. Although the DSWD is known for their generous budget, Vessels believe that their work could be complemented and aided through the work of Third Party Evaluations. Outsourcing evaluation to a third party, especially to a company like Vessels, would benefit governments, and other agencies that require data surrounding CCT’s. _TODO: We should mention things about accountability between Govt. and world bank/adb instead here_ |
 
@@ -61,6 +62,31 @@ A particular area that seems to be lacking within CCT development is the matter 
 The 4P’s program is the third-biggest CCT in the world, behind Brazil and Mexico. It is a national government initiative with the purpose of improving health, education and nutrition in households with children 0-18 years old. This purpose echoes the social initiatives of the government, guided by the Philippines’ objective to participate in outworking the UN Millenium Development Goals. 
 
 The Department of Social Welfare and Development (DSWD) govern the program. The funding comes from the national budget, but also through grants from the World Bank and Asia Development Bank (ADB). In 2010, the ADB approved a grant of P19B, along with a further P130M for technical projects [^6]. _TODO: provide conversions to USD and a date_ Another P19B grant was approved in 2016, along with a further P5.2M for technical projects [^7]. The World Bank approved P21B in 2016 for the program [^8]. All grants are set to fund the 4P’s until 2019. 
+
+
+### How it works
+
+The 4P’s operates in all 17 regions of the Philippines. Beneficiaries are currently selected through the National Household Targeting System for Poverty Reduction, which identifies who and where the poor are in the country.
+
+
+| **Grants**| **Conditions** |
+| -------------------|--|
+| - Health: P500 per month per household | - Pregnant women must go to pre-natal and post-natal care and be attended by a health professional at childbirth|
+| - Education: P300 per child every ten months (households can register a maximum of 3 children).| - Parents/guardians must attend monthly family development seminars, which address topics such as responsible parenting, health and nutrition. |
+|- Rice subsidy _TODO:_ | - Children 0-5yo must receive regular check-ups and vaccines|
+| | - Children ages 16-14yo must receive deworming pills twice a year |
+| |- Children-beneficiaries of the education grant between ages 3-18 must be enrolled in a school, and must be able to prove 85% attendance. |
+
+
+
+
+
+
+
+Another program, the Modified Conditional Cash Transfer Program, is a complementary program to the 4P’s, and is targeted at the Philippines most poor; families in need of special protection. This includes street-families, families with members that have a disability, victims of child labor and trafficking and so on. 
+
+
+
 
 
 
