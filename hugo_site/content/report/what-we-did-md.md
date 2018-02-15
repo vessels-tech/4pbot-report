@@ -26,13 +26,79 @@ Another group of people that Vessels met with were stakeholders, in both the Fil
 
 ## Implementation
 
-Vessels designed and developed 4Pbot 0.1. This was released to a small set of private testers; 10-15 people.
+We decided to break down the implementation of 4pbot into 3 roughly defined 'sprints'. Each sprint represented a core part of work on building the bot, and ended with a short evaluation period of 5-10 days. This evaluation period was vital to help us learn quickly what was and wasn't working about the bot, focus on any bugs that needed squashing, or features that needed further tweaking.
 
-Their feedback was then incorporated into the product. 4Pbot was then launched to the public and promoted amongst 4P Facebook Groups.
 
-_todo: lewis more detail here_
+## 0.1 Alpha
 
-We then iterated 4Pbot 0.3. With this version, conversation flow issues had been addressed and the Payment Date Estimation feature had been removed, because it was not accurate enough.
+- The first sprint by far took longest to implement.
+  - required building out all of the infrastructure (Zapier + Google Sheets + Google Firebase)
+  - decided to build using an open source bot platform BotKit, which stops 4Pbot from being locked in to facebook
+  - finding a good way to integrate
+  - building our translation and content building pipeline
+- Took ideas from trip, and decided to really hone in on these features:
+  1. Date estimator
+  2. Private reporting feature
+
+  For now, 4pBot addresses 2 key areas that we at Vessels Tech have have identified we might be able to assist with the Filipino social welfare program, known as 4Ps:
+
+      Payout dates are unreliable and unpredictable
+      Clients don’t speak up about issues because they are embarrassed or afraid they will lose their payments.
+
+
+- In addition, as they weren't too much more complicated to do, we built:
+  1. Payment calculator (how much is my payout)
+  2. 4Ps news - 3 short posts in local language about things going on with 4ps.
+
+- by the time these were done, we launched 4pbot privately
+  - This was following the advice of Matt Wallace (bot afficionado) - who had told me you only really get one shot with a bot on facebook. Once a user deletes you, you're gone!
+
+- for the date estimator, we bootstrapped data from public posts about the 4ps and simply asking people on facebook
+
+From our alpha release we had the following info:
+
+Out of our 10 testers, 3 didn't get past the menu, 1 was unable to use a feature because they didn't know their zip code, 1 person didn't like the cover photo (maybe a little too impersonal), and 1 person thought the conversation with 4pbot was too jumpy.
+
+
+
+## 0.2
+
+- added a date report section, to help us crowdsource the payout dates
+  - this is because other sources we were looking into didn't come through. For example, one of the local DSWD departments were in contact with said they don't even record the past payout date data! Seems a little silly to us.
+
+
+Version 0.2 really prepared 4pbot for public release. We addressed many of the issues from the private release, and were able to catch and fix a few minor bugs before it went live.
+
+We launched version 0.2 to the public on Nov 10, and promoted it heavily in 4Ps facebook groups; independently run groups of 4ps beneficiaries who get together and share their experiences,
+
+
+The initial feedback from 4Pbot has been really positive. We have 250 unique users within 2 weeks of launching, with more growing everyday.
+We have support from admins in 2 major Facebook groups for 4Ps clients, with >20,000 users and counting.
+
+
+## 0.3
+
+- removed payout date predictor. It simply wasn't accurate enough.
+  - unfortunately this was our most popular feature.
+  - Other workarounds were ineffective. We would rather have less users than patently lie to them.
+
+Improved conversation flow and intelligence:
+eg:
+  - We found friction in the sign up process - not all users were comfortable giving us their phone number
+    - added the ability to skip, or it gives up after a couple tries
+
+Our summary for users in November and December is this:
+
+|Indicator|November|December|
+|---------|--------|--------|
+|0.2 Feedback|😀 x 15 😐 x 5 😣 x 3  | - |
+|0.3 Feedback | -  |😀 x 2 😐 x 😣 x 0|
+|# of users assisted | 50| 25|
+|# of complete vs abandoned conversations   |197/221   |173/195
+|MAU   |253   |111   |
+
+We can see the most active users in November when 4Pbot launched to the public. We saw this drop off (as expected) as people either grew bored of 4pbot, or didn't feel the need to come back. The date estimate feature was unfortunately the most popular by far (despite how inaccurate it was depending on the user's location), which also explains the decline in December.  Fortunately though, we saw almost as many conversations in December, and more complete conversations. This implies that the users who stuck with 4Pbot were using it more, and were finding it easier to use, as the ratio of complete conversations in Dec was greater than Nov.
+
 
 
 ## Second Philippines Visit
