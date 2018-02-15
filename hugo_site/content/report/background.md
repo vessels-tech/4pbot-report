@@ -5,9 +5,6 @@ published: true
 weight: 2
 ---
 
-**Background Information**
-
-_This is my suggested "Little Summary"_
 This section provides the context which led us to creating 4PBot. We look into key aspects of Digital Financial Services (DFS) in the Philippines, Conditional Cash Transfer (CCT) programs at large, and also the 4P Program. Explaining a bit of background about these things will help you see the how 4PBot was shaped, and where we hope to apply these technologies and approaches in the future.
 
 
@@ -27,8 +24,6 @@ However, the mobile money movement does have its share of limitations. Although 
 
 Furthermore, despite the country’s focus on financial inclusion, only two out of ten households in the Philippines has a savings account. Scholarship is urging policymakers to remember that creating a mobile infrastraucture is only the first step; people, epsecially the poor, will benefit more from additional tailored products and services that encourage better management of finances.
 
-_TODO: need to mention mobile money and its limitations explicitly_
-_Note: I have tried to do that above. Please edit at your will. Also have included references. Was not sure how to footnote._
 
 | **Key Factors to keep in consideration:**|   				   |
 | ---------------------------------- |-------------------------|
@@ -58,6 +53,7 @@ In the case of a political history and climate like the Philippines, there somet
 
 _TODO: We should mention things about accountability between Govt. and world bank/adb instead here_
 _Note: Have tried. Not too sure if it's what you are after._
+_kinda. I think we need to understand a little more about the current accountability process first._
 
 ## The Pantawid Pamilyang Pilipino Program (4Ps)
 
