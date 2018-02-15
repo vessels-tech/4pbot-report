@@ -23,7 +23,10 @@ Vessels embarked on its first Philippines visit in order to meet 4P beneficiarie
 
 
 
-_meeting beneficaries on a payout day - these women spent their entire day in a line for 1 atm!_
+![trip_1_line.jpg]({{site.baseurl}}/media/trip_1_line.jpg)
+
+
+_meeting beneficaries on a payout day - these women spent their entire day in a line for a single atm!_
 
 Another group of people that Vessels met with were stakeholders, in both the Filipino Government and of other social enterprises. The purpose of these meetings was to discuss potential partnerships, and to talk and brainstorm around the application of chatbot technology for other services.
 
