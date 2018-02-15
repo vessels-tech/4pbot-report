@@ -8,31 +8,7 @@ weight: 2
 **Background Information**
 
 _This is my suggested "Little Summary"_
-This section provides the context which led us to creating 4PBot. We look into key aspects of Digital Financial Services (DFS) in the Philippines, Conditional Cash Transfer (CCT) programs at large, and also the 4P Program. Explaining a bit of background about these things will help you see the how 4PBot was shaped, and also, where we hope to be applying this technology in future. 
-
-
-
-## What is 4PBot -
-_I don't actually think this section belongs here._
-_TODO: Instead I think we should write a little summary about the background in 2-3 sentences_
-
-4Pbot is a chatbot for Filipinos on the nation's social welfare program, Pantawid Pamilyang Pilipino Program, or 4Ps. 4Pbot _todo: finish little summary_
-
-_TODO: make into table_
-
-### Features:
-- Payment date estimates
-- Anonymous reporting system
-- Payment calculator
-- 4Ps news
-
-### Audience
-- Langauges: Cebuano, Tagalog, English
-- Clients (mostly women) who recieve 4Ps payments for their families
-
-### Platform
-- Facebook Messenger
-- Facebook Free Data users
+This section provides the context which led us to creating 4PBot. We look into key aspects of Digital Financial Services (DFS) in the Philippines, Conditional Cash Transfer (CCT) programs at large, and also the 4P Program. Explaining a bit of background about these things will help you see the how 4PBot was shaped, and where we hope to apply these technologies and approaches in the future.
 
 
 ## Digital Financial Services in the Philippines
@@ -45,11 +21,11 @@ The Filipino Central Bank - Bangko Sentral ng Pilipinas - invites the regulation
 
 Overall, Filipino policy makers and regulators recognise the importance of financial inclusion in the international context, and thus are realising that it is a key development opportunity for the country.
 
-More specifically, the Philippines has been described as a 'mobile money innovation hub' (https://www.gsma.com/mobilefordevelopment/programme/mobile-money/mobile-money-philippines-market-conditions-drive-innovation-smart-money-gcash-philippines-becoming-mobile-money-innovation-hub. The Philippines has unique geographical and demographic conditions; namely, trying to get financial services to its 7,500 islands where only 50% of the islands have bank branches. This has urged stakeholders to come up with creative solutions for improving financial inclusion. As the Philippines has a high mobile penetration rate, mobile operators seem to be spearheading this movement. 
+More specifically, the Philippines has been described as a 'mobile money innovation hub' (https://www.gsma.com/mobilefordevelopment/programme/mobile-money/mobile-money-philippines-market-conditions-drive-innovation-smart-money-gcash-philippines-becoming-mobile-money-innovation-hub. The Philippines has unique geographical and demographic conditions; namely, trying to get financial services to its 7,500 islands where only 50% of the islands have bank branches. This has urged stakeholders to come up with creative solutions for improving financial inclusion. As the Philippines has a high mobile penetration rate, mobile operators seem to be spearheading this movement.
 
 However, the mobile money movement does have its share of limitations. Although financial inclusion is meant to benefit the poor, ensuring that they also feel the benefits of mobile money services remains a challenge. This is largely due to accessibility and digital literacy issues (http://siteresources.worldbank.org/EXTINFORMATIONANDCOMMUNICATIONANDTECHNOLOGIES/Resources/IC4D-2012-Chapter-4.pdf_)(We actually saw a lot of this first-hand when meeting with 4PBot users).  
 
-Furthermore, despite the country’s focus on financial inclusion, only two out of ten households in the Philippines has a savings account. Scholarship is urging policymakers to remember that creating a mobile infrastraucture is only the first step; people, epsecially the poor, will benefit more from additional tailored products and services that encourage better management of finances. 
+Furthermore, despite the country’s focus on financial inclusion, only two out of ten households in the Philippines has a savings account. Scholarship is urging policymakers to remember that creating a mobile infrastraucture is only the first step; people, epsecially the poor, will benefit more from additional tailored products and services that encourage better management of finances.
 
 _TODO: need to mention mobile money and its limitations explicitly_
 _Note: I have tried to do that above. Please edit at your will. Also have included references. Was not sure how to footnote._
@@ -70,14 +46,14 @@ CCTs have become one of the most prevalent social assistance programs in low to 
 | **CCT Challenges:**|   				   |
 | -------------------|-------------|
 | _Impact Assessment_ | A particular area that seems to be lacking within CCT development is the matter of effective long-term evaluations of impact [^5]. The scholarship around this mainly discusses appropriate methodology for assessing the claim that CCT’s will reduce poverty levels and increase human capital in the long run as it promises. |
-| _Fraud Assessment_ | A less prominent issue in CCT, but worth consideration nonetheless, is control and accountability, and mitigating opportunity for fraud within CCT programs. Social programs are inherently complex, which unfortunately, allow for vulnerabilities in the system. 
+| _Fraud Assessment_ | A less prominent issue in CCT, but worth consideration nonetheless, is control and accountability, and mitigating opportunity for fraud within CCT programs. Social programs are inherently complex, which unfortunately, allow for vulnerabilities in the system.
 
-In the case of the Philippines, these fraud assessments take the form of spot checks at a municipal level. DSWD also runs its own internal review. 
+In the case of the Philippines, these fraud assessments take the form of spot checks at a municipal level. DSWD also runs its own internal review.
 
 _TODO: I think there were some reports about this from the world bank somewhere..._|
 | _3rd Party Program Evaluations_ | Government programs are notorious for being underfunded and overworked. Although the DSWD is known for their generous budget, Vessels believe that their work could be complemented and aided through the work of Third Party Evaluations. Outsourcing evaluation to a third party, especially to a company like Vessels, would benefit governments, and other agencies that require data surrounding CCT’s.
 
-In the case of a political history and climate like the Philippines, there sometimes is a real need for trusted third parties to be collecting data. Filipinos are inherently sceptical about their government and associated agencies. How can we ensure that data collected by government agencies will be accurate? And not even because of real corruption, but because of a public perception? A Third Party may be useful in diffusing public bias in order to obtain accurate data. 
+In the case of a political history and climate like the Philippines, there sometimes is a real need for trusted third parties to be collecting data. Filipinos are inherently sceptical about their government and associated agencies. How can we ensure that data collected by government agencies will be accurate? And not even because of real corruption, but because of a public perception? A Third Party may be useful in diffusing public bias in order to obtain accurate data.
 
 
 _TODO: We should mention things about accountability between Govt. and world bank/adb instead here_
