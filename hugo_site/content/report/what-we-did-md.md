@@ -5,9 +5,11 @@ title: What We Did
 weight: 4
 ---
 
-_TODO: short section summary_
+This section is an overview of the process we took in building 4Pbot. We talk about the research we conducted, the plan and execution of 4pbot's development, and how we went about assessing the results from this project.
 
-## First Research Phase
+
+
+## Initial Research Phase
 
 We began our first phase of research by, concentrating on the Philippines’ 4Ps program _todo: isn't this the entire of what we focused on?_. In this phase, we also researched financial services and financial literacy, in both general terms and their relevance and use in the Philippines.
 
@@ -23,13 +25,12 @@ Vessels embarked on its first Philippines visit in order to meet 4P beneficiarie
 
 
 
-![trip_1_line.jpg]({{site.baseurl}}/media/trip_1_line.jpg)
+![trip_1_line.jpg] (/media/trip_1_line.jpg)
 
 
 _meeting beneficaries on a payout day - these women spent their entire day in a line for a single atm!_
 
 Another group of people that Vessels met with were stakeholders, in both the Filipino Government and of other social enterprises. The purpose of these meetings was to discuss potential partnerships, and to talk and brainstorm around the application of chatbot technology for other services.
-
 
 
 
@@ -115,6 +116,13 @@ We can see the most active users in November when 4Pbot launched to the public. 
 Vessels came back to the Philippines, to Toledo City,  and met face-to-face with a small subset of 4Pbot users; 6 middle-aged women. In our conversations, we asked them about their experience with 4Pbot and the 4Ps program. We also simply watched and took record of how the women used the bot.
 
 We also took the opportunity to travel to Bantayan Island to visit a small village project. We did this with the next iteration of this project in mind. On Bantayan, we interviewed people, with the focus of discovering more about people’s financial situations. In doing so, Vessels was able to gain key insights into the different financial services and financial literacy amongst ordinary Filipino people.
+
+
+![IMG_4659.jpg]({{site.baseurl}}/media/IMG_4659.jpg)
+_conducting interviews about financial inclusion on Bantayan_
+
+![IMG_4660.jpg]({{site.baseurl}}/media/IMG_4660.jpg)
+_when I asked about whether or not this family had a bank account, this is what this gentleman showed me!_
 
 
 [^9]:  Opportunities NOW describes themselves as an Entrepreneurship development system that seeks to reduce poverty by providing business training and mentoring in various stages of the business startup: <http://www.onowmyanmar.org/>.
